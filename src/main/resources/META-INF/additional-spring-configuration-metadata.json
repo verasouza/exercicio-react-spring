@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "apikey",
+    "type": "java.lang.String",
+    "description": "A description for 'apikey'"
+  },
+  {
+    "name": "pkey",
+    "type": "java.lang.String",
+    "description": "A description for 'pkey'"
+  },
+  {
+    "name": "apiurl",
+    "type": "java.lang.String",
+    "description": "A description for 'apiurl'"
+  }
+]}
